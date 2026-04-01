@@ -122,7 +122,8 @@ gridview {
 		box {
 			//cells
 			border-spacing: $space-size + 2px; //label separation
-			margin: $space-size * 2;
+			//margin: $space-size * 2;
+			margin: 0;
 		}
 	}
 }
